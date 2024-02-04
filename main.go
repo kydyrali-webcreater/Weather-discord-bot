@@ -10,8 +10,8 @@ import (
 	"github.com/go-resty/resty/v2"
 )
 
-const token = "MTIwMzY0NzQ2NjIwMTY3Nzg1NQ.GkHEuQ.LTyrqSHHrBRof3vpTebzccherqQxDEf6vdp3lc"
-const weatherAPIKey = "e15fd09991adb196569025d0975d0cd4"
+const token = "token"
+const weatherAPIKey = "api"
 const weatherAPIEndpoint = "https://api.openweathermap.org/data/2.5/weather"
 
 func main() {
